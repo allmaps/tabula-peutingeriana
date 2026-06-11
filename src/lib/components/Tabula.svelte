@@ -65,7 +65,7 @@
 			previousSelectedPoints = selectedPoints;
 
 			// Change view
-			if (appState.lastMoved !== currentComponent) {
+			if (appState.lastMoved !== currentComponent && featuresToSelect.length) {
 				const bounds = bbox(featureCollection(featuresToSelect)) as LngLatBoundsLike;
 				const camera = map.cameraForBounds(bounds, { maxZoom, padding: settings.padding });
 				if (camera) {
