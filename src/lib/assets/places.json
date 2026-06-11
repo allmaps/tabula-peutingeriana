@@ -1,0 +1,5870 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1000",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [21539, 1198],
+				"label": "Avgvsta vindelicv̄",
+				"modern": "Augsburg",
+				"symbol": "Aa9"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.894768, 48.365456] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1013",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [27197, 1416],
+				"label": "Ivavo",
+				"modern": "Salzburg",
+				"symbol": "B16"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.05501, 47.80949] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1036",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [25766, 1214],
+				"label": "Tredente",
+				"modern": "Trento",
+				"symbol": "Ab5"
+			},
+			"geometry": { "type": "Point", "coordinates": [11.119059, 46.066711] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1039",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [27224, 1983],
+				"label": "Verona",
+				"modern": "Verona",
+				"symbol": "Aa22"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.994371, 45.438953] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace104",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [15055, 4512],
+				"label": "Milev Colonia",
+				"modern": "Mila",
+				"symbol": "Aa5"
+			},
+			"geometry": { "type": "Point", "coordinates": [6.26348, 36.449959] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1048",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [23075, 1817],
+				"label": "Mediolanvm",
+				"modern": "Milano",
+				"symbol": "Aa6"
+			},
+			"geometry": { "type": "Point", "coordinates": [9.188141, 45.463688] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1051",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [24202, 2159],
+				"label": "Placentia",
+				"modern": "Piacenza",
+				"symbol": "Ab5"
+			},
+			"geometry": { "type": "Point", "coordinates": [9.695142, 45.053772] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1054",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [27739, 2142],
+				"label": "Mantva",
+				"modern": "Mantova",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.797698, 45.160366] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1056",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [20642, 1940],
+				"label": "Cvtias",
+				"modern": "Cozzo ~ Candia Lomellina",
+				"symbol": "Ac7"
+			},
+			"geometry": { "type": "Point", "coordinates": [8.612341, 45.193222] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1058",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [21953, 2041],
+				"label": "Ticeno",
+				"modern": "Pavia",
+				"symbol": "Ac1"
+			},
+			"geometry": { "type": "Point", "coordinates": [9.156563, 45.185886] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1067",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [27156, 2520],
+				"label": "Mvtina",
+				"modern": "Modena",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.92522, 44.647079] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1069",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [27981, 2605],
+				"label": "Bononia",
+				"modern": "Bologna",
+				"symbol": "Ac1"
+			},
+			"geometry": { "type": "Point", "coordinates": [11.346481, 44.494221] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1078",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [20655, 3414],
+				"label": "Lvne",
+				"modern": "Luni",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.026169, 44.089855] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1080",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [21143, 3231],
+				"label": "Lvca",
+				"modern": "Lucca",
+				"symbol": "Ad3"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.507994, 43.843014] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1086",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [24848, 2974],
+				"label": "Florentia Tvscorvm",
+				"modern": "Firenze",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [11.256901, 43.76873] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1087",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [20926, 3418],
+				"label": "Adtaberna Frigida",
+				"modern": "Massa di Carrara",
+				"symbol": "C6"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.116923, 44.021111] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1089",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [21881, 3366],
+				"label": "Pisis",
+				"modern": "Pisa",
+				"symbol": "Aa24"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.396584, 43.716133] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1094",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [26122, 3060],
+				"label": "Bitvriza",
+				"modern": "Montevarchi",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [11.570007, 43.52877] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1096",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [27681, 2949],
+				"label": "Adretio",
+				"modern": "Arezzo",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [11.863048, 43.471275] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1100",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [29615, 3156],
+				"label": "Clvsio",
+				"modern": "Chiusi",
+				"symbol": "Ac1"
+			},
+			"geometry": { "type": "Point", "coordinates": [11.948444, 43.017036] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1104",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [22597, 3640],
+				"label": "Velinis",
+				"modern": "Volterra",
+				"symbol": "Aa10"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.861111, 43.401424] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1105",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [23195, 3491],
+				"label": "Vadis Volateris",
+				"modern": "Vada ~ Rosignano Marittimo",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.456738, 43.353352] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1106",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [23725, 3506],
+				"label": "Aqvas volaternas",
+				"modern": "Terme di Pomarance",
+				"symbol": "C3"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.876959, 43.2645] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1109",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [24473, 3540],
+				"label": "Aqvae Popvlaniae",
+				"modern": "Venturina-Terme",
+				"symbol": "C17"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.600888, 43.028004] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1111",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [25879, 3221],
+				"label": "Sena Ivlia",
+				"modern": "Siena",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [11.330514, 43.318661] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1120",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [27534, 3600],
+				"label": "Cosa",
+				"modern": "Ansedonia",
+				"symbol": "Ac1"
+			},
+			"geometry": { "type": "Point", "coordinates": [11.288557, 42.407246] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1125",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [29561, 1451],
+				"label": "Aqvileia",
+				"modern": "Aquileia",
+				"symbol": "E2"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.364626, 45.768299] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1127",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [28623, 1878],
+				"label": "Altino",
+				"modern": "Altino",
+				"symbol": "Aa16"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.402095, 45.550934] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1140",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [30956, 2740],
+				"label": "Ravenna",
+				"modern": "Ravenna",
+				"symbol": "E5"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.196571, 44.41573] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1144",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [33361, 3004],
+				"label": "ARIMINO",
+				"modern": "Rimini",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.566301, 44.060917] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1146",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [34274, 2785],
+				"label": "Fano Fvrtvnae",
+				"modern": "Fano",
+				"symbol": "B7"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.016882, 43.844868] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1155",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [32411, 3108],
+				"label": "Cvrita cesena",
+				"modern": "Cesena",
+				"symbol": "Aa25",
+				"classic": "Curva Casena"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.239124, 44.13876] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1161",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [36025, 2789],
+				"label": "ANCONE",
+				"modern": "Ancona",
+				"symbol": "Ab7"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.518757, 43.615856] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1164",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [37283, 2601],
+				"label": "Polentia",
+				"modern": "Porto Recanati",
+				"symbol": "Ab13"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.66237, 43.437519] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1172",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [36303, 3303],
+				"label": "Mevanie",
+				"modern": "Bevagna",
+				"symbol": "Ab11"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.609389, 42.934872] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1176",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [36520, 3040],
+				"label": "Vrbesalvia",
+				"modern": "Urbisaglia",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.373907, 43.192352] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1177",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [36756, 2882],
+				"label": "Asclopiceno",
+				"modern": "Ascoli Piceno",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.574977, 42.855404] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1181",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [39068, 2392],
+				"label": "Castello Firmani",
+				"modern": "Santa Maria a Mare",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.802075, 43.16151] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1184",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [38302, 2527],
+				"label": "Firmoviceno",
+				"modern": "Fermo",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.724222, 43.16563] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1190",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [38510, 2727],
+				"label": "Interocrio",
+				"modern": "Antrodoco",
+				"symbol": "Aa11"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.081007, 42.416065] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1196",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [40413, 2488],
+				"label": "Priferno",
+				"symbol": "Ab10",
+				"classic": "Prifernum"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.469582, 42.357784] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1197",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [40597, 2498],
+				"label": "Amiternvs",
+				"modern": "San Vittorino Amiterno",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.314537, 42.397018] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1198",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [38785, 2808],
+				"label": "Aqve cvtillie",
+				"modern": "Paterno ~ Cittaducale",
+				"symbol": "C32"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.009844, 42.385975] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace120",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [30267, 4660],
+				"label": "Sicca Vēria",
+				"modern": "El Kef",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [8.71414, 36.179272] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1203",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [40434, 3405],
+				"label": "ROMA",
+				"modern": "Roma",
+				"symbol": "F3"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.482324, 41.895466] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1207",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [38962, 3196],
+				"label": "Aqva viva",
+				"modern": "Acquaviva",
+				"symbol": "C34"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.674618, 42.418831] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1211",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [36591, 3400],
+				"label": "Spoletio",
+				"modern": "Spoleto",
+				"symbol": "Aa3"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.73843, 42.745335] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1212",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [37123, 3399],
+				"label": "Fano Fvgitivi",
+				"modern": "Monte Somma ~ Spoleto",
+				"symbol": "B5"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.728348, 42.663506] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1217",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [32423, 3300],
+				"label": "Tvder",
+				"modern": "Todi",
+				"symbol": "Aa4"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.408453, 42.780231] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1222",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [36942, 3552],
+				"label": "Vacanas",
+				"modern": "Baccano ~ Campagnano di Roma",
+				"symbol": "C7"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.36733, 42.118999] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1226",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [31344, 3479],
+				"label": "Volsinis",
+				"modern": "Bolsena",
+				"symbol": "Ac1"
+			},
+			"geometry": { "type": "Point", "coordinates": [11.986111, 42.644852] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1227",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [32119, 3492],
+				"label": "Aqvas Passaras",
+				"modern": "Bagni Giasinelli",
+				"symbol": "C1"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.064619, 42.468235] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1241",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [34868, 3821],
+				"label": "Tarqvinis",
+				"modern": "Tarquinia",
+				"symbol": "Ab6"
+			},
+			"geometry": { "type": "Point", "coordinates": [11.758469, 42.254696] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1242",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [36276, 3772],
+				"label": "Aqvas Apollinaris",
+				"modern": "Bagni di Stigliano",
+				"symbol": "C9"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.042518, 42.116741] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1246",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [35657, 3813],
+				"label": "Aqvas tavri",
+				"modern": "Bagni di Traiano ~ Civitavecchia",
+				"symbol": "C2"
+			},
+			"geometry": { "type": "Point", "coordinates": [11.786513, 42.104271] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1254",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [34079, 3858],
+				"label": "Mindo Fl.",
+				"modern": "Mignone",
+				"symbol": "C1"
+			},
+			"geometry": { "type": "Point", "coordinates": [11.785963, 42.195438] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1255",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [34947, 3887],
+				"label": "Centv̄ cellis",
+				"modern": "Civitavecchia",
+				"symbol": "D1"
+			},
+			"geometry": { "type": "Point", "coordinates": [11.796814, 42.091179] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1256",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [35626, 3885],
+				"label": "Castro Novo",
+				"modern": "Chiaruccia ~ Santa Marinella",
+				"symbol": "Aa5"
+			},
+			"geometry": { "type": "Point", "coordinates": [11.834164, 42.036163] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1260",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [39960, 3761],
+				"label": "Portus",
+				"modern": "Fiumicino",
+				"symbol": "G7"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.257974, 41.77972] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1261",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [39374, 3534],
+				"label": "AD SCM̄ PETRVM",
+				"modern": "Vaticano",
+				"symbol": "B36"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.453389, 41.902916] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1263",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [41082, 2303],
+				"label": "Castro Novo",
+				"modern": "Giulianova",
+				"symbol": "Ab18"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.962371, 42.752548] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1265",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [41758, 2397],
+				"label": "Pinna",
+				"modern": "Penne",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.927475, 42.457623] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1268",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [42577, 2560],
+				"label": "Ostia Eterni",
+				"modern": "Pescara",
+				"symbol": "Aa26"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.214095, 42.464825] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1273",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [44193, 2550],
+				"label": "Istonivm",
+				"modern": "Vasto",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.709621, 42.112705] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1277",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [45708, 2585],
+				"label": "Siponto",
+				"modern": "Siponto ~ Manfredonia",
+				"symbol": "Ab16"
+			},
+			"geometry": { "type": "Point", "coordinates": [15.895949, 41.606819] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1287",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [50661, 2341],
+				"label": "Gnatie",
+				"modern": "Torre Egnazia ~ Fasano",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [17.392206, 40.887329] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1291",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [42791, 2984],
+				"label": "Marrvbio",
+				"modern": "San Benedetto dei Marsi",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.619357, 42.004028] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1298",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [43837, 2792],
+				"label": "Corfinio",
+				"modern": "Corfinio",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.842161, 42.123817] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1302",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [45956, 3045],
+				"label": "Esernie",
+				"modern": "Isernia",
+				"symbol": "Aa12"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.230828, 41.594334] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1306",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [40908, 2797],
+				"label": "Tibori",
+				"modern": "Tivoli",
+				"symbol": "Ab12"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.798272, 41.963577] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1309",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [42144, 2975],
+				"label": "Carsvlis",
+				"modern": "Civita Seconda",
+				"symbol": "Ab3"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.044235, 42.081505] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace131",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [35888, 4839],
+				"label": "Aqvis",
+				"symbol": "C1",
+				"classic": "Aquae"
+			},
+			"geometry": { "type": "Point", "coordinates": [9.369939, 36.450214] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1312",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [41530, 3004],
+				"label": "Preneste",
+				"modern": "Palestrina",
+				"symbol": "Aa4"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.884538, 41.835365] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1321",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [42202, 3423],
+				"label": "Adbirivm",
+				"modern": "Valmontone",
+				"symbol": "Aa4"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.917845, 41.777088] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1322",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [42839, 3461],
+				"label": "Conpito Anagnino",
+				"modern": "Anagni",
+				"symbol": "Ab14"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.158999, 41.742233] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1323",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [43274, 3517],
+				"label": "Ferentinvm",
+				"modern": "Ferentino",
+				"symbol": "Aa3"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.253358, 41.692711] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1324",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [43730, 3540],
+				"label": "Febrateri(a)e",
+				"symbol": "Aa3",
+				"classic": "Fabrateria Nova"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.558107, 41.519291] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1329",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [45933, 3464],
+				"label": "Teano Scedicino",
+				"modern": "Teano",
+				"symbol": "Aa50"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.067519, 41.252354] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1334",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [46610, 2969],
+				"label": "Bobiano",
+				"modern": "Bojano",
+				"symbol": "Aa12"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.473926, 41.486721] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1338",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [47222, 2740],
+				"label": "Aecas",
+				"modern": "Troia",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [15.308898, 41.361191] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1342",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [48990, 3134],
+				"label": "Benebento",
+				"modern": "Benevento",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.781174, 41.130447] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1345",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [49402, 2347],
+				"label": "Bvtvntos",
+				"modern": "Bitonto",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [16.691429, 41.10844] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1350",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [49567, 2567],
+				"label": "Venvsie",
+				"modern": "Venosa",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [15.815796, 40.962353] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1364",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [50662, 3878],
+				"label": "Salerno",
+				"symbol": "Aa50",
+				"classic": "Salernum"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.765922, 40.677986] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1375",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [51511, 2383],
+				"label": "Brindisi",
+				"symbol": "Aa1",
+				"classic": "Brundisium"
+			},
+			"geometry": { "type": "Point", "coordinates": [17.938955, 40.636189] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1380",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [52218, 2712],
+				"label": "Tarento",
+				"modern": "Taranto",
+				"symbol": "Aa7"
+			},
+			"geometry": { "type": "Point", "coordinates": [17.240009, 40.469238] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1382",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [51788, 2779],
+				"label": "Grvmento",
+				"modern": "~ Grumento Novo",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [15.889704, 40.283924] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1384",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [53263, 2234],
+				"label": "Ydrvnte",
+				"modern": "Otranto",
+				"symbol": "Aa37"
+			},
+			"geometry": { "type": "Point", "coordinates": [18.485754, 40.148029] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1385",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [53662, 2317],
+				"label": "Castra Minervae",
+				"modern": "Castro",
+				"symbol": "Aa6"
+			},
+			"geometry": { "type": "Point", "coordinates": [18.425945, 40.002983] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1394",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [51532, 3216],
+				"label": "Nervlos",
+				"symbol": "Aa3",
+				"classic": "Nerulum"
+			},
+			"geometry": { "type": "Point", "coordinates": [16.039995, 39.953732] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace14",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [7379, 4274],
+				"label": "Saldas Colonia",
+				"modern": "Béjaïa",
+				"symbol": "B13"
+			},
+			"geometry": { "type": "Point", "coordinates": [5.066667, 36.75] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1400",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [53009, 3227],
+				"label": "Aqve Ange",
+				"modern": "Bagni di Sant'Eufemia",
+				"symbol": "C26"
+			},
+			"geometry": { "type": "Point", "coordinates": [16.251652, 38.920288] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1402",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [53585, 3476],
+				"label": "Vibona Balentia",
+				"modern": "Vibo Valentia",
+				"symbol": "Aa3"
+			},
+			"geometry": { "type": "Point", "coordinates": [16.097649, 38.675583] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1404",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [54304, 3111],
+				"label": "Annibali",
+				"modern": "Catanzaro Lido",
+				"symbol": "Aa1",
+				"classic": "Castra Hannibalis"
+			},
+			"geometry": { "type": "Point", "coordinates": [16.610374, 38.819771] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1407",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [54418, 3674],
+				"label": "Columna Regia",
+				"modern": "Villa S. Giovanni",
+				"symbol": "C27"
+			},
+			"geometry": { "type": "Point", "coordinates": [15.638008, 38.217953] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1408",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [54708, 3680],
+				"label": "Regio",
+				"modern": "Reggio Callabra",
+				"symbol": "Aa13"
+			},
+			"geometry": { "type": "Point", "coordinates": [15.650137, 38.114689] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1412",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [54861, 3277],
+				"label": "Cavlon",
+				"modern": "Caulonia",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [16.409851, 38.382519] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1420",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [54227, 2947],
+				"label": "Lacenivm",
+				"modern": "Capo Colonne",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [17.200001, 39.033333] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1421",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [41319, 3640],
+				"label": "Bobellas",
+				"modern": "Frattocchie",
+				"symbol": "D2"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.617009, 41.765881] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1423",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [42263, 3697],
+				"label": "Svblanvbio",
+				"modern": "San Gennaro ~ Lanuvio",
+				"symbol": "C35"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.718549, 41.681969] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1424",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [42853, 3728],
+				"label": "Tres Tabernas",
+				"modern": "~ Cisterna di Latina",
+				"symbol": "C1"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.826349, 41.59444] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1426",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [43824, 3942],
+				"label": "Terracina",
+				"modern": " Terracina",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.252916, 41.289841] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1428",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [40683, 3483],
+				"label": "Hostis",
+				"modern": "Ostia",
+				"symbol": "Ac3"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.287656, 41.754856] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1430",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [42155, 3914],
+				"label": "Antivm",
+				"modern": "Anzio",
+				"symbol": "Ab15"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.629052, 41.447948] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1438",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [44987, 3898],
+				"label": "Mentvrnis",
+				"modern": "Minturno",
+				"symbol": "Aa3"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.746468, 41.262379] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace144",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [41247, 4594],
+				"label": "Maxvla",
+				"modern": "Radès",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.283333, 36.766666] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1440",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [45328, 3944],
+				"label": "Sinvessa",
+				"modern": "~ Mondragone",
+				"symbol": "Aa46"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.894555, 41.115166] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1450",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [47128, 3494],
+				"label": "Addiana",
+				"modern": "Sant'Angelo in Formis ~ Capua",
+				"symbol": "B20"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.260515, 41.118294] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1454",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [47505, 3820],
+				"label": "Capvae",
+				"modern": "Santa Maria Capua Vetere",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.256627, 41.079987] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1463",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [49402, 3820],
+				"label": "Adteglanvm",
+				"modern": "Palma Campania ~ Napoli",
+				"symbol": "C16"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.549704, 40.865944] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1464",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [50143, 4070],
+				"label": "Nvceria",
+				"modern": "Nocera",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.642815, 40.746094] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1466",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [47994, 3956],
+				"label": "Neapoli",
+				"modern": "Napoli",
+				"symbol": "Aa3"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.251636, 40.840096] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1471",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [46982, 4039],
+				"label": "In Vinias",
+				"modern": "~ Pozzuoli",
+				"symbol": "C13"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.105023, 40.829884] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1472",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [46752, 4247],
+				"label": "Baiae",
+				"modern": "Baia",
+				"symbol": "C14"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.066458, 40.819122] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1473",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [47510, 3832],
+				"label": "Pvteolis",
+				"modern": "Pozzuoli",
+				"symbol": "Aa10"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.121614, 40.823719] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1475",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [49114, 4048],
+				"label": "Oplontis",
+				"modern": "Torre Annunziata",
+				"symbol": "C15"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.465648, 40.750797] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1476",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [49710, 4034],
+				"label": "Pompeis",
+				"modern": "Pompei",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.485429, 40.749409] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1479",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [50012, 4373],
+				"label": "Templvm Minervae",
+				"modern": "~ Sorrento",
+				"symbol": "B10"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.375738, 40.62632] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1485",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [52637, 3566],
+				"label": "Clampeia",
+				"modern": "Amantea",
+				"symbol": "Aa3"
+			},
+			"geometry": { "type": "Point", "coordinates": [16.075481, 39.13422] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1488",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [50901, 4368],
+				"label": "Depanis",
+				"modern": "Trapani",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.514634, 38.018589] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace149",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [43963, 4773],
+				"label": "Gvrra",
+				"modern": "Akouda",
+				"symbol": "Aa27"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.563368, 35.915833] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1490",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [51212, 4404],
+				"label": "Lilybeo",
+				"modern": "Marsala",
+				"symbol": "Aa46"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.434233, 37.799084] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1493",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [51735, 3994],
+				"label": "Thermis",
+				"modern": "Termini Imerese",
+				"symbol": "Aa3"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.696264, 37.983948] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1499",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [53608, 4119],
+				"label": "Messana",
+				"modern": "Messina",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [15.555523, 38.192333] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace150",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [44616, 4720],
+				"label": "Hadrito",
+				"modern": "Soûsse",
+				"symbol": "Aa29"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.633333, 35.833332] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1506",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [51503, 4383],
+				"label": "Aqvas labodes",
+				"modern": "Sciacca",
+				"symbol": "C25"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.080469, 37.505688] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1511",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [53531, 4286],
+				"label": "Siracvsis",
+				"modern": "Siracusa",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [15.284428, 37.066456] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1535",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [30194, 1664],
+				"label": "Fonte timavi",
+				"modern": "~ Monfalcone",
+				"symbol": "C8"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.532855, 45.809647] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1537",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [31225, 1971],
+				"label": "Parentio",
+				"modern": "Poreč",
+				"symbol": "Ac1",
+				"classic": "Parentium"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.597752, 45.226696] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1542",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [33073, 846],
+				"label": "Vindobona",
+				"modern": "Wien",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [16.373819, 48.208176] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1545",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [34338, 865],
+				"label": "Carnvnto",
+				"modern": "Deutsch Altenburg",
+				"symbol": "Ab1",
+				"classic": "Carnuntum"
+			},
+			"geometry": { "type": "Point", "coordinates": [16.867891, 48.113346] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1550",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [36559, 881],
+				"label": "Brigantio",
+				"modern": "Szõny ~ Komárom",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [18.169516, 47.735245] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1554",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [38563, 888],
+				"label": "Aqvinco",
+				"modern": "Budapest",
+				"symbol": "Aa1",
+				"classic": "Aquincum"
+			},
+			"geometry": { "type": "Point", "coordinates": [19.049561, 47.564007] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1561",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [34943, 1137],
+				"label": "Sabarie",
+				"modern": "Szombathely",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [16.621918, 47.235142] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1564",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [35191, 1438],
+				"label": "Petavione",
+				"modern": "Ptuj",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [15.869981, 46.419991] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1571",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [33215, 1182],
+				"label": "Virvno",
+				"modern": "Maria Saal",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.35155, 46.684101] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1583",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [34209, 1441],
+				"label": "Celeia",
+				"modern": "Celje",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [15.260294, 46.231018] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1585",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [32277, 1630],
+				"label": "Emona",
+				"modern": "Ljubljana",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.505966, 46.051426] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1603",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [33433, 1889],
+				"label": "Adprotoriv̄",
+				"modern": "Trebnje",
+				"symbol": "Ab19"
+			},
+			"geometry": { "type": "Point", "coordinates": [15.005997, 45.907707] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1609",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [39777, 1363],
+				"label": "Siscia",
+				"modern": "Sisak",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [16.373569, 45.484684] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace161",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [10004, 4935],
+				"label": "Ad Dianam",
+				"modern": "Aïn Zana",
+				"symbol": "B17"
+			},
+			"geometry": { "type": "Point", "coordinates": [5.794601, 35.654507] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1610",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [40738, 1453],
+				"label": "Ad Pretorivm",
+				"modern": "~ Bosanska Dubica",
+				"symbol": "C10"
+			},
+			"geometry": { "type": "Point", "coordinates": [16.80666, 45.184528] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1611",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [31695, 1992],
+				"label": "Pola",
+				"modern": "Pula",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.841147, 44.869652] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1612",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [31174, 1961],
+				"label": "Qvaeri",
+				"modern": "Koper",
+				"symbol": "C1"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.731171, 45.548264] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1617",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [33327, 2185],
+				"label": "Tarsatica",
+				"modern": "Rijeka Trsat",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.45208, 45.328613] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1618",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [33791, 2237],
+				"label": "Senia",
+				"modern": "Senj",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.900878, 44.990559] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1627",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [42075, 1760],
+				"label": "Bvrno",
+				"modern": "~ Kistanje",
+				"symbol": "Ab13"
+			},
+			"geometry": { "type": "Point", "coordinates": [15.960938, 43.980236] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1633",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [39150, 1975],
+				"label": "Sardona",
+				"modern": "Skradin",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [15.923047, 43.817902] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1639",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [44848, 1022],
+				"label": "Cornaco",
+				"modern": "Sotin",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [19.152651, 45.291279] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1646",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [49642, 1082],
+				"label": "Tavrvno",
+				"modern": "Zemun",
+				"symbol": "Aa7",
+				"alt": "Земун"
+			},
+			"geometry": { "type": "Point", "coordinates": [20.410278, 44.84528] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1648",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [51230, 1023],
+				"label": "Singidvno",
+				"modern": "Beograd",
+				"symbol": "Aa34",
+				"alt": "Београд"
+			},
+			"geometry": { "type": "Point", "coordinates": [20.465601, 44.802418] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1652",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [43780, 1182],
+				"label": "Mvrsa maior",
+				"modern": "Osijek",
+				"symbol": "Ac1"
+			},
+			"geometry": { "type": "Point", "coordinates": [18.675884, 45.560001] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1657",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [48188, 1285],
+				"label": "Sirmivm",
+				"modern": "Sremska Mitrovica",
+				"symbol": "Aa1",
+				"alt": "Сремска Митровица"
+			},
+			"geometry": { "type": "Point", "coordinates": [19.615864, 44.978981] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1660",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [41862, 1467],
+				"label": "Servttio",
+				"modern": "Bosanska Gradiška",
+				"symbol": "C11",
+				"alt": "Босанска Градишка"
+			},
+			"geometry": { "type": "Point", "coordinates": [17.25293, 45.14209] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1675",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [44140, 1645],
+				"label": "Indenea",
+				"modern": "Mujdzic",
+				"symbol": "Aa32"
+			},
+			"geometry": { "type": "Point", "coordinates": [17.104912, 44.236984] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1677",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [44800, 1543],
+				"label": "Iovnaria",
+				"symbol": "B32",
+				"classic": "Ionnaria"
+			},
+			"geometry": { "type": "Point", "coordinates": [17.149805, 44.082371] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1679",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [45330, 1504],
+				"label": "In Alperio",
+				"modern": "Trnova Poljana",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [16.75861, 43.78278] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1681",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [45906, 1683],
+				"label": "Salona",
+				"modern": "Solin",
+				"symbol": "Ac2"
+			},
+			"geometry": { "type": "Point", "coordinates": [16.491028, 43.53756] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1691",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [50787, 1492],
+				"label": "Admatricem",
+				"modern": "Bugojno",
+				"symbol": "Ad6"
+			},
+			"geometry": { "type": "Point", "coordinates": [17.437389, 44.053581] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1693",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [52259, 1350],
+				"label": "Stanecli",
+				"modern": "Kiseljak",
+				"symbol": "C24",
+				"alt": "Кисељак ~ Sarajevo"
+			},
+			"geometry": { "type": "Point", "coordinates": [18.085041, 43.947166] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1698",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [49183, 1801],
+				"label": "Narona",
+				"modern": "Vid ~ Metković",
+				"symbol": "Ad4"
+			},
+			"geometry": { "type": "Point", "coordinates": [17.64782, 43.053963] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1702",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [50890, 1755],
+				"label": "Ad Zizio",
+				"symbol": "Aa33"
+			},
+			"geometry": { "type": "Point", "coordinates": [18.387915, 42.776688] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1703",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [46620, 1751],
+				"label": "Epetio",
+				"modern": "Stobreč",
+				"symbol": "D3"
+			},
+			"geometry": { "type": "Point", "coordinates": [16.525749, 43.507339] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1705",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [47432, 1826],
+				"label": "Inaronia",
+				"modern": "Makarska",
+				"symbol": "C23"
+			},
+			"geometry": { "type": "Point", "coordinates": [17.020739, 43.295242] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1706",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [47625, 1842],
+				"label": "",
+				"symbol": "B31"
+			},
+			"geometry": { "type": "Point", "coordinates": [17.34129, 43.104759] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1708",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [46122, 1960],
+				"label": "Addiana",
+				"modern": "~ Split",
+				"symbol": "B2"
+			},
+			"geometry": { "type": "Point", "coordinates": [16.44245, 43.506905] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1712",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [44658, 1869],
+				"label": "ragvrio",
+				"modern": "Trogir",
+				"symbol": "Ad8",
+				"classic": "Tragurio"
+			},
+			"geometry": { "type": "Point", "coordinates": [16.250658, 43.517727] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1713",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [45656, 1781],
+				"label": "Siclis",
+				"modern": "Kaštel Stari",
+				"symbol": "C21"
+			},
+			"geometry": { "type": "Point", "coordinates": [16.346827, 43.553234] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1717",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [54177, 1275],
+				"label": "Viminatio",
+				"modern": "Drmno ~ Kostolac",
+				"symbol": "Aa51"
+			},
+			"geometry": { "type": "Point", "coordinates": [21.233334, 44.716667] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1725",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [58108, 1048],
+				"label": "Tivisco",
+				"modern": "Jupa ~ Caransebeş",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [22.186457, 45.459076] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1730",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [56585, 1221],
+				"label": "Faliatis",
+				"modern": "Donji Milanovac",
+				"symbol": "Aa1",
+				"alt": "Доњи Милановац"
+			},
+			"geometry": { "type": "Point", "coordinates": [22.154346, 44.462242] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1740",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [60092, 1059],
+				"label": "Sarmategte",
+				"modern": "Grădişte",
+				"symbol": "Aa6"
+			},
+			"geometry": { "type": "Point", "coordinates": [22.786654, 45.516029] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1741",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [60678, 1048],
+				"label": "Adaqvas",
+				"modern": "Călan",
+				"symbol": "C29"
+			},
+			"geometry": { "type": "Point", "coordinates": [22.991756, 45.737446] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1745",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [62973, 1260],
+				"label": "Apvla",
+				"modern": "Alba Iulia",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [23.580099, 46.076691] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1769",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [59453, 1738],
+				"label": "Ratiaris",
+				"modern": "Arçar ~ Vidin",
+				"symbol": "Aa1",
+				"alt": "Арчар"
+			},
+			"geometry": { "type": "Point", "coordinates": [22.919855, 43.809422] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1776",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [61487, 1775],
+				"label": "Esco",
+				"modern": "Gigen",
+				"symbol": "Ab1",
+				"classic": "Oescus"
+			},
+			"geometry": { "type": "Point", "coordinates": [24.482489, 43.69733] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1784",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [58301, 1926],
+				"label": "Naisso",
+				"modern": "Niš",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [21.896328, 43.319382] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace179",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [27794, 4965],
+				"label": "Ad Aqvas casaris",
+				"modern": "Youks ~ Tebessa",
+				"symbol": "C2",
+				"classic": "Ad Aquas Caesaris"
+			},
+			"geometry": { "type": "Point", "coordinates": [7.949211, 35.45026] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1791",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [60808, 2042],
+				"label": "Sertica",
+				"modern": "Sofia",
+				"symbol": "Aa36"
+			},
+			"geometry": { "type": "Point", "coordinates": [23.322285, 42.697624] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace180",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [29095, 4953],
+				"label": "Theveste",
+				"modern": "Tebessa",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [8.120864, 35.407139] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1801",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [53256, 1663],
+				"label": "Scobre",
+				"modern": "Shkodër",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [19.330734, 42.171001] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1803",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [51661, 1774],
+				"label": "Epitavro",
+				"modern": "Cavtat",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [18.21887, 42.581028] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace181",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [30340, 5022],
+				"label": "Admercvriv̄",
+				"modern": "Ksar Gurai",
+				"symbol": "B30"
+			},
+			"geometry": { "type": "Point", "coordinates": [8.285494, 35.47797] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1816",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [57772, 2096],
+				"label": "Adhercvlem",
+				"modern": "Žitorađa",
+				"symbol": "B29"
+			},
+			"geometry": { "type": "Point", "coordinates": [21.771868, 43.166744] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1818",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [57228, 2241],
+				"label": "Scviris",
+				"modern": "Skopje",
+				"symbol": "Aa1",
+				"classic": "Scupis",
+				"alt": "Скопје"
+			},
+			"geometry": { "type": "Point", "coordinates": [21.452246, 42.003811] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1826",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [60074, 2293],
+				"label": "Stopis",
+				"modern": "Palikura ~ Negotino",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [21.97646, 41.552464] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1836",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [64057, 3161],
+				"label": "Tessalonice",
+				"modern": "Saloniki",
+				"symbol": "E6"
+			},
+			"geometry": { "type": "Point", "coordinates": [22.944607, 40.639351] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1839",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [61606, 2617],
+				"label": "Heraclea",
+				"modern": "~ Bitola",
+				"symbol": "Aa14",
+				"alt": "Битола"
+			},
+			"geometry": { "type": "Point", "coordinates": [21.34029, 41.032799] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1841",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [54922, 1897],
+				"label": "Dyrratio",
+				"modern": "Durrës",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [19.450001, 41.316666] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1845",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [57149, 2485],
+				"label": "Addianam",
+				"symbol": "B2"
+			},
+			"geometry": { "type": "Point", "coordinates": [20.333752, 41.155769] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1848",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [59636, 2598],
+				"label": "Lignido",
+				"modern": "Ohrid",
+				"symbol": "Aa1",
+				"alt": "Okhrid"
+			},
+			"geometry": { "type": "Point", "coordinates": [20.801666, 41.116943] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1849",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [60467, 2598],
+				"label": "Nicea",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [21.17795, 41.056992] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1857",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [58256, 3267],
+				"label": "Actanicopoli",
+				"modern": "Nicopolis",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [20.733395, 39.026505] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1858",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [55626, 2457],
+				"label": "Avlona",
+				"modern": "Vlorë",
+				"symbol": "Aa5"
+			},
+			"geometry": { "type": "Point", "coordinates": [19.490219, 40.471882] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1865",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [58818, 3158],
+				"label": "Larissa",
+				"modern": "Larisa",
+				"symbol": "Aa1",
+				"alt": "Λάρισα"
+			},
+			"geometry": { "type": "Point", "coordinates": [22.419935, 39.632099] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1874",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [61512, 3325],
+				"label": "Elatia",
+				"modern": "Elatia",
+				"symbol": "Ac4",
+				"classic": "Elateia"
+			},
+			"geometry": { "type": "Point", "coordinates": [22.764982, 38.62635] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1885",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [60600, 3304],
+				"label": "Megara",
+				"modern": "Megara",
+				"symbol": "Aa18"
+			},
+			"geometry": { "type": "Point", "coordinates": [23.344591, 37.994846] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1890",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [61720, 3449],
+				"label": "Athenas",
+				"modern": "Athína",
+				"symbol": "Aa38",
+				"alt": "Αθήνα"
+			},
+			"geometry": { "type": "Point", "coordinates": [23.716646, 37.979179] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1893",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [60598, 3637],
+				"label": "Corintho",
+				"modern": "Kórinthos",
+				"symbol": "Aa1",
+				"alt": "Κόρινθος"
+			},
+			"geometry": { "type": "Point", "coordinates": [22.93203, 37.93858] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1898",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [60825, 4006],
+				"label": "Argos",
+				"modern": "Argos",
+				"symbol": "Aa1",
+				"alt": "Άργος"
+			},
+			"geometry": { "type": "Point", "coordinates": [22.729168, 37.635986] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1901",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [61589, 4195],
+				"label": "Lacedemone",
+				"modern": "Spárti",
+				"symbol": "Aa39",
+				"alt": "Σπάρτη"
+			},
+			"geometry": { "type": "Point", "coordinates": [22.432585, 37.074303] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1902",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [59177, 4004],
+				"label": "Olympia",
+				"modern": "Archea Olympia",
+				"symbol": "Ac1"
+			},
+			"geometry": { "type": "Point", "coordinates": [21.627287, 37.648552] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1906",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [59417, 3700],
+				"label": "PaTHRAS",
+				"modern": "Patras",
+				"symbol": "Aa35"
+			},
+			"geometry": { "type": "Point", "coordinates": [21.737066, 38.254463] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1917",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [60074, 4153],
+				"label": "Mothone",
+				"modern": "Methonis",
+				"symbol": "Aa1",
+				"alt": "Μεθωνης"
+			},
+			"geometry": { "type": "Point", "coordinates": [21.707315, 36.818008] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1922",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [62239, 4302],
+				"label": "Boas",
+				"modern": "Neápoli",
+				"symbol": "Aa14",
+				"alt": "Νεάπολη"
+			},
+			"geometry": { "type": "Point", "coordinates": [23.060606, 36.543457] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1926",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [64860, 1360],
+				"label": "Napoca",
+				"modern": "Cluj",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [23.59989, 46.777248] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1930",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [66310, 1299],
+				"label": "Porolisso",
+				"modern": "Moigrad-Jac",
+				"symbol": "Aa3"
+			},
+			"geometry": { "type": "Point", "coordinates": [23.154516, 47.177731] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1935",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [62883, 1523],
+				"label": "Adnovas",
+				"modern": "Svištov",
+				"symbol": "Aa1",
+				"alt": "Свищов"
+			},
+			"geometry": { "type": "Point", "coordinates": [25.346045, 43.620117] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1944",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [65145, 1837],
+				"label": "Dvrostero",
+				"modern": "Silistra",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [27.260721, 44.117107] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1947",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [66251, 1685],
+				"label": "Axiopolis",
+				"modern": "Cernavodă",
+				"symbol": "Aa47"
+			},
+			"geometry": { "type": "Point", "coordinates": [28.033611, 44.338055] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1951",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [67360, 1520],
+				"label": "Troesmis",
+				"modern": "Turcoaia ~ Braila",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [28.180431, 45.100624] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1957",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [69053, 1609],
+				"label": "Tomis",
+				"modern": "Constanţa",
+				"symbol": "Ad5"
+			},
+			"geometry": { "type": "Point", "coordinates": [28.638332, 44.173332] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1958",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [67100, 2014],
+				"label": "Odessos",
+				"modern": "Varna",
+				"symbol": "Aa13",
+				"alt": "Варна"
+			},
+			"geometry": { "type": "Point", "coordinates": [27.911806, 43.216644] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1965",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [67990, 2213],
+				"label": "Templo Iovis",
+				"modern": "Obzor",
+				"symbol": "B2",
+				"alt": "Обзор"
+			},
+			"geometry": { "type": "Point", "coordinates": [27.881414, 42.818966] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1967",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [68719, 2346],
+				"label": "Ancialis",
+				"modern": "Pomorije",
+				"symbol": "Aa37"
+			},
+			"geometry": { "type": "Point", "coordinates": [27.64138, 42.55603] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1976",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [70831, 2463],
+				"label": "Perintvs",
+				"modern": "Marmaraereğlisi",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [27.955, 40.970001] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1981",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [70878, 2960],
+				"label": "Apris",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [27.069889, 40.969929] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace1982",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [71416, 2935],
+				"label": "Heraclea",
+				"modern": "Mürefte",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [27.245565, 40.668552] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace199",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [45636, 4765],
+				"label": "Thisdro Col.",
+				"modern": "El Djem",
+				"symbol": "Aa30"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.70753, 35.300659] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2001",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [62731, 2159],
+				"label": "Phinipopolis",
+				"modern": "Plovdiv",
+				"symbol": "Aa1",
+				"classic": "Philippopolis"
+			},
+			"geometry": { "type": "Point", "coordinates": [24.749561, 42.143841] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2008",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [67677, 2353],
+				"label": "Aqvis calidis",
+				"modern": "Banevo",
+				"symbol": "C30",
+				"alt": "Банево"
+			},
+			"geometry": { "type": "Point", "coordinates": [27.393053, 42.627674] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2013",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [66666, 2852],
+				"label": "Hadrianopoli",
+				"modern": "Edirne",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [26.566668, 41.666668] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2021",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [69221, 3194],
+				"label": "Aenos",
+				"modern": "Enez",
+				"symbol": "Aa15"
+			},
+			"geometry": { "type": "Point", "coordinates": [26.0889, 40.729328] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2050",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [64540, 3171],
+				"label": "Heracleasantica",
+				"modern": "Neo Petritsio",
+				"symbol": "Aa19"
+			},
+			"geometry": { "type": "Point", "coordinates": [23.26193, 41.450733] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2059",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [69714, 3787],
+				"label": "Cydonia",
+				"modern": "Chánia",
+				"symbol": "Aa40",
+				"alt": "Χάνια"
+			},
+			"geometry": { "type": "Point", "coordinates": [24.018806, 35.516235] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2065",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [69748, 3820],
+				"label": "Cisamos",
+				"modern": "Kastéli",
+				"symbol": "Aa2",
+				"alt": "Καστέλι"
+			},
+			"geometry": { "type": "Point", "coordinates": [23.660727, 35.495308] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2070",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [72114, 3971],
+				"label": "Cortina",
+				"modern": "Gortis",
+				"symbol": "Ac1",
+				"alt": "Γορτυς"
+			},
+			"geometry": { "type": "Point", "coordinates": [24.947535, 35.061687] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2076",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [73406, 4230],
+				"label": "Hiera",
+				"modern": "Ierápetra",
+				"symbol": "Ab1",
+				"alt": "Ιεράπετρα"
+			},
+			"geometry": { "type": "Point", "coordinates": [25.74048, 35.010262] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2080",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [72227, 1958],
+				"label": "Sycas",
+				"modern": "İstanbul-Galata",
+				"symbol": "B24"
+			},
+			"geometry": { "type": "Point", "coordinates": [28.97201, 41.018265] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2082",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [72355, 2432],
+				"label": "Constantinopolis",
+				"modern": "İstanbul",
+				"symbol": "F2"
+			},
+			"geometry": { "type": "Point", "coordinates": [28.976959, 41.005268] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2084",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [73592, 1891],
+				"label": "Chrisoppolis",
+				"modern": "İstanbul-Üsküdar",
+				"symbol": "G5 + C36"
+			},
+			"geometry": { "type": "Point", "coordinates": [29.031939, 41.032234] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2085",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [74162, 1729],
+				"label": "Iovisvrivs",
+				"modern": "Anadolu Kavaği",
+				"symbol": "B11"
+			},
+			"geometry": { "type": "Point", "coordinates": [29.088226, 41.174541] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2089",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [75567, 2014],
+				"label": "Artane",
+				"modern": "Şile ?",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [29.611416, 41.175037] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2099",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [79348, 1776],
+				"label": "Tivm",
+				"modern": "Filyos-Hisarönü",
+				"symbol": "Ab13"
+			},
+			"geometry": { "type": "Point", "coordinates": [32.02219, 41.554066] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2100",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [79660, 1776],
+				"label": "Mastrvm",
+				"modern": "Amasra",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [32.384659, 41.745144] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2104",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [80574, 1905],
+				"label": "Sinope",
+				"modern": "Sinop",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.155075, 42.026421] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2105",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [76121, 2001],
+				"label": "Templvm Hercvlis",
+				"modern": "Kandıra",
+				"symbol": "B21"
+			},
+			"geometry": { "type": "Point", "coordinates": [30.15712, 41.080231] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2108",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [73642, 2068],
+				"label": "Calcedonia",
+				"modern": "Kadıköy",
+				"symbol": "Ab7"
+			},
+			"geometry": { "type": "Point", "coordinates": [29.082127, 40.979717] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2109",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [74139, 2189],
+				"label": "Livissa",
+				"modern": "Gebze",
+				"symbol": "D5"
+			},
+			"geometry": { "type": "Point", "coordinates": [29.433332, 40.799999] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2110",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [74929, 2272],
+				"label": "Nicomedia",
+				"modern": "İzmit",
+				"symbol": "E4"
+			},
+			"geometry": { "type": "Point", "coordinates": [29.948357, 40.775986] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2118",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [78854, 1984],
+				"label": "Gangaris",
+				"modern": "Çankırı",
+				"symbol": "Ab2"
+			},
+			"geometry": { "type": "Point", "coordinates": [33.616669, 40.599998] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2119",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [79971, 1924],
+				"label": "Pompeiopolis",
+				"modern": "Taşköprü",
+				"symbol": "Ab2"
+			},
+			"geometry": { "type": "Point", "coordinates": [34.214722, 41.513889] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2122",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [79308, 2202],
+				"label": "Amasia",
+				"modern": "Amasya",
+				"symbol": "Ab2"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.833332, 40.650002] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2128",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [74945, 2642],
+				"label": "Eribvlo",
+				"modern": "Yeniköy",
+				"symbol": "C37"
+			},
+			"geometry": { "type": "Point", "coordinates": [29.351149, 40.535889] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2129",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [74794, 2872],
+				"label": "Nicea",
+				"modern": "İznik",
+				"symbol": "E3"
+			},
+			"geometry": { "type": "Point", "coordinates": [29.716541, 40.428963] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2134",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [76571, 2529],
+				"label": "Ivliopoli",
+				"modern": "Emremsultan",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [31.39847, 40.075157] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2144",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [81581, 2210],
+				"label": "Tavio",
+				"modern": "Büyüknefes",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [34.517914, 39.858334] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2155",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [77324, 2620],
+				"label": "Pesinvnte",
+				"modern": "Ballıhisar ~ Sivrihisar",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [31.581238, 39.332756] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2157",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [78930, 2665],
+				"label": "Amvrio",
+				"modern": "~ Emirdăg",
+				"symbol": "B6"
+			},
+			"geometry": { "type": "Point", "coordinates": [31.15345, 39.026039] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2164",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [79555, 2766],
+				"label": "Lavdiciaca tacecavmeno",
+				"modern": "Ladik",
+				"symbol": "Ab1",
+				"classic": "Laodicea Combusta"
+			},
+			"geometry": { "type": "Point", "coordinates": [32.388111, 38.21386] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2166",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [81769, 2958],
+				"label": "Sabatra",
+				"modern": "Yağlıbayat",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [33.122498, 37.969273] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2168",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [79011, 2917],
+				"label": "Synnada",
+				"modern": "Şuhut",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [30.549999, 38.533333] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace218",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [32901, 5155],
+				"label": "Capsa Colonia",
+				"modern": "Gafsa",
+				"symbol": "Ac1"
+			},
+			"geometry": { "type": "Point", "coordinates": [8.786656, 34.42165] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2180",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [78118, 3413],
+				"label": "Philadelfia",
+				"modern": "Alaşehir",
+				"symbol": "Ab1",
+				"classic": "Philadelpheia"
+			},
+			"geometry": { "type": "Point", "coordinates": [28.515169, 38.350861] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2187",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [80794, 3642],
+				"label": "Ephesvm",
+				"modern": "Selçuk",
+				"symbol": "Ab1",
+				"classic": "Ephesus"
+			},
+			"geometry": { "type": "Point", "coordinates": [27.370142, 37.949886] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2188",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [78364, 3464],
+				"label": "Tyatira",
+				"modern": "Akhisar",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [27.8375, 38.918056] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2190",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [78814, 3614],
+				"label": "Smyrna",
+				"modern": "İzmir",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [27.128719, 38.41885] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2191",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [73223, 3496],
+				"label": "Lamasco",
+				"symbol": "Ab17",
+				"classic": "Lampsacus"
+			},
+			"geometry": { "type": "Point", "coordinates": [26.991619, 40.346684] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2195",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [74545, 3313],
+				"label": "Cyzico",
+				"modern": "Kyzikos",
+				"symbol": "Ab2",
+				"classic": "Cyzicus"
+			},
+			"geometry": { "type": "Point", "coordinates": [27.976669, 40.352219] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2200",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [76342, 3315],
+				"label": "Mileopoli",
+				"symbol": "Aa2",
+				"classic": "Miletopolis"
+			},
+			"geometry": { "type": "Point", "coordinates": [28.316486, 40.083458] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2201",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [74746, 3384],
+				"label": "Lamasco",
+				"symbol": "Ab1",
+				"classic": "Apamea"
+			},
+			"geometry": { "type": "Point", "coordinates": [28.882618, 40.375469] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2202",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [74934, 3362],
+				"label": "Prvsias",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [29.156389, 40.432468] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2204",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [76628, 3586],
+				"label": "Pergamo",
+				"modern": "Bergama",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [27.183332, 39.116669] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2208",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [74510, 3857],
+				"label": "Alexandria troas",
+				"modern": "Kurşunlu Tepe ~ Çanakkale",
+				"symbol": "Ab1",
+				"classic": "Antigoneia"
+			},
+			"geometry": { "type": "Point", "coordinates": [26.152555, 39.76128] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2211",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [75540, 3825],
+				"label": "Gargara",
+				"modern": "Ine ~ Cepini",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [26.538692, 39.533478] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2212",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [75935, 3824],
+				"label": "Antandros",
+				"modern": "~ Altınoluk",
+				"symbol": "Ab2"
+			},
+			"geometry": { "type": "Point", "coordinates": [26.791496, 39.578499] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2213",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [76478, 3638],
+				"label": "Adrimitio",
+				"symbol": "Ab2",
+				"classic": "Adramyttium"
+			},
+			"geometry": { "type": "Point", "coordinates": [26.938091, 39.500698] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2236",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [84188, 1890],
+				"label": "Missos",
+				"modern": "Samsun",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [36.33128, 41.292782] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2242",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [86455, 2125],
+				"label": "Polemonio",
+				"modern": "Bolaman",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [37.595478, 41.034504] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2252",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [82547, 1979],
+				"label": "Amasia",
+				"modern": "Amasya",
+				"symbol": "Aa5"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.833332, 40.650002] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2257",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [84674, 2112],
+				"label": "Neocesaria",
+				"modern": "Niksar",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [36.953602, 40.590542] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace226",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [46520, 5079],
+				"label": "Adaqvas",
+				"modern": "El Hamma",
+				"symbol": "C18"
+			},
+			"geometry": { "type": "Point", "coordinates": [9.791839, 33.884102] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2262",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [83306, 2246],
+				"label": "Zela",
+				"modern": "Zile",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.883331, 40.299999] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2269",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [85051, 2367],
+				"label": "Comana Pontica",
+				"modern": "Gümenek",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [36.639748, 40.359657] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace228",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [48443, 5150],
+				"label": "Tacape col.",
+				"modern": "Gabès",
+				"symbol": "Aa28"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.10291, 33.893269] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2283",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [85514, 2668],
+				"label": "Mazaca cesarea",
+				"modern": "Kayseri",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.478729, 38.73122] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2290",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [88770, 2298],
+				"label": "Sevastia",
+				"modern": "Sivas",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [37.017879, 39.747662] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2297",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [83831, 2928],
+				"label": "Tyana",
+				"modern": "Kemerhisar ~ Niğde",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [34.570835, 37.82328] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2307",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [88149, 2622],
+				"label": "Comana Capadocia",
+				"modern": "Şar",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [36.326237, 38.330616] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2320",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [84219, 2887],
+				"label": "Aqvis calidis",
+				"modern": "~ Çiftehan",
+				"symbol": "C1"
+			},
+			"geometry": { "type": "Point", "coordinates": [34.769936, 37.512592] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2322",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [84301, 3161],
+				"label": "yconio",
+				"modern": "Konya",
+				"symbol": "Ab2"
+			},
+			"geometry": { "type": "Point", "coordinates": [32.48177, 37.87759] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2333",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [88594, 3601],
+				"label": "Alexandria catisson",
+				"modern": "İskenderun",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [36.172569, 36.586864] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2346",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [82134, 3166],
+				"label": "Apamea ciboton",
+				"modern": "Dinar",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [30.166668, 38.066666] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2351",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [83922, 3392],
+				"label": "Antiochia pisidia",
+				"modern": "Yalvaç",
+				"symbol": "Ab2"
+			},
+			"geometry": { "type": "Point", "coordinates": [31.180229, 38.295231] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2353",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [84286, 3544],
+				"label": "Sidi",
+				"modern": "Side ~ Manavgat",
+				"symbol": "Ab2"
+			},
+			"geometry": { "type": "Point", "coordinates": [31.391172, 36.768044] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2354",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [81311, 3354],
+				"label": "Lavdicivm pilycvm",
+				"modern": "Eskihisar ~ Denizli",
+				"symbol": "Ab2"
+			},
+			"geometry": { "type": "Point", "coordinates": [29.80195, 36.790443] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2366",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [86682, 3330],
+				"label": "Pompeiopolis",
+				"modern": "~ Mersin",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [34.638569, 36.804203] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2369",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [87829, 3516],
+				"label": "Aregea",
+				"modern": "~ Yumurtalık",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.783333, 36.766666] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2374",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [89574, 3856],
+				"label": "ANTIOCHIA",
+				"modern": "Antakya",
+				"symbol": "F1"
+			},
+			"geometry": { "type": "Point", "coordinates": [36.176189, 36.20015] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2384",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [81872, 3626],
+				"label": "Miletvm",
+				"modern": "Balat",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [27.276728, 37.512924] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2386",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [82688, 3617],
+				"label": "Chidvm",
+				"modern": "~ Reşadiye",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [27.371637, 36.69017] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2390",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [83480, 3672],
+				"label": "Patras",
+				"modern": "Gelemiş ~ Kalkan",
+				"symbol": "Ab2"
+			},
+			"geometry": { "type": "Point", "coordinates": [29.320679, 36.276707] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2394",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [83912, 3906],
+				"label": "Phaselis",
+				"modern": "~ Kemer",
+				"symbol": "Ab2"
+			},
+			"geometry": { "type": "Point", "coordinates": [30.54771, 36.592381] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2396",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [85278, 1381],
+				"label": "Trapezvnte",
+				"modern": "Trabzon",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [39.733334, 41] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2404",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [89841, 1173],
+				"label": "Apsaro",
+				"modern": "~ Batumi",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [41.656189, 41.651741] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2409",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [86859, 1461],
+				"label": "Bylae",
+				"modern": "Zigana geçidi",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [39.377777, 40.623055] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace242",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [41996, 4521],
+				"label": "Adaqvas",
+				"modern": "Korbous ?",
+				"symbol": "C22"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.583333, 36.799999] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2421",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [85199, 3879],
+				"label": "Paphos",
+				"modern": "Paphos",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [32.416668, 34.766666] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2422",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [85491, 3843],
+				"label": "Soloae",
+				"modern": "~ Karavostasi",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [32.832424, 35.137569] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2424",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [86487, 3636],
+				"label": "Cerinia",
+				"modern": "Kyrenia",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [33.317749, 35.335049] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2426",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [86912, 3877],
+				"label": "Salamina",
+				"modern": "~ Famagusta",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [33.941551, 35.107849] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2428",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [86567, 3910],
+				"label": "Thremitvs",
+				"modern": "~ Tremetousiá",
+				"symbol": "Aa2",
+				"alt": "Τρεμετουσιά"
+			},
+			"geometry": { "type": "Point", "coordinates": [33.61058, 35.086353] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2438",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [92265, 4506],
+				"label": "Bathna",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [37.523029, 36.371372] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2439",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [93209, 4603],
+				"label": "Hierapoli",
+				"modern": "Manbij",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [37.950001, 36.533333] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2454",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [95786, 1158],
+				"label": "Sebastoplis",
+				"modern": "Sokhumi",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [40.989151, 43.00732] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2457",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [97101, 1199],
+				"label": "Caspiae",
+				"modern": "Kaspi",
+				"symbol": "Ac6"
+			},
+			"geometry": { "type": "Point", "coordinates": [44.411911, 41.927551] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2464",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [99828, 1827],
+				"label": "Artaxata",
+				"modern": "Artashat",
+				"symbol": "Aa2",
+				"alt": "Արտաշատ"
+			},
+			"geometry": { "type": "Point", "coordinates": [44.550556, 39.953888] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2466",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [100753, 1711],
+				"label": "Sanora",
+				"modern": "Ordubad",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [46.027779, 38.908054] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2469",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [101758, 1507],
+				"label": "Teleda",
+				"modern": "Sabirabad",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [48.478889, 40.012779] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2475",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [102644, 2116],
+				"label": "Lazo",
+				"modern": "Taht-i-Suleiman",
+				"symbol": "Aa2",
+				"alt": "Takht-E Soleyman"
+			},
+			"geometry": { "type": "Point", "coordinates": [47.234776, 36.604557] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2489",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [96680, 1719],
+				"label": "Andaga",
+				"modern": "Adilcevaz",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [42.298519, 39.94437] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace249",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [43571, 4579],
+				"label": "Clipeis",
+				"modern": "Kélibia",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [11.09016, 36.849651] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2491",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [97541, 1690],
+				"label": "Chadas",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [42.699986, 39.822746] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2493",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [98567, 1916],
+				"label": "Ravgonia",
+				"symbol": "Aa2",
+				"classic": "Bagauna"
+			},
+			"geometry": { "type": "Point", "coordinates": [43.519714, 39.603878] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2501",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [100271, 2670],
+				"label": "Isvmbo",
+				"modern": "Patnos",
+				"symbol": "Ab2"
+			},
+			"geometry": { "type": "Point", "coordinates": [42.866669, 39.233334] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2515",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [103812, 4321],
+				"label": "Nicea Nialia",
+				"modern": "Sanandaj | Ashgabat",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [46.994331, 35.31871] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2516",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [103901, 4330],
+				"label": "Ecbatanis Partiorvm",
+				"modern": "Hamadan",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [48.516247, 34.806499] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2524",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [92714, 2303],
+				"label": "Zimara",
+				"modern": "Çaltu",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [38.381878, 39.406502] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2532",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [94239, 3275],
+				"label": "Melentenis",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [38.316669, 38.350182] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace254",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [44374, 4470],
+				"label": "Ad Horrea",
+				"modern": "Hergla",
+				"symbol": "C12",
+				"classic": "Horrea Caelia"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.5, 36.033333] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2556",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [95776, 3739],
+				"label": "Samosata",
+				"modern": "Samsat",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [38.482365, 37.579288] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace256",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [45569, 4705],
+				"label": "Lepteminvs",
+				"modern": "Lamta",
+				"symbol": "Aa31"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.876193, 35.66938] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2566",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [94477, 3678],
+				"label": "Heracome",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [38.026745, 37.492458] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2576",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [91773, 3966],
+				"label": "Thvrae",
+				"modern": "Kilis",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [37.12122, 36.718399] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2580",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [94884, 4214],
+				"label": "Zevgma",
+				"modern": "Belkıs ~ Birecik",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [37.876438, 37.046951] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2582",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [97433, 2229],
+				"label": "Triganocarten",
+				"modern": "Silvan",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [41.38995, 37.973759] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2586",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [94381, 4730],
+				"label": "Apammari",
+				"modern": "~ Abu Daghmah",
+				"symbol": "Ab2"
+			},
+			"geometry": { "type": "Point", "coordinates": [38.2789, 36.430389] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace26",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [10043, 4327],
+				"label": "Igilgili Col.",
+				"modern": "Djidjelli",
+				"symbol": "Ac1"
+			},
+			"geometry": { "type": "Point", "coordinates": [5.76666, 36.821617] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2621",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [98022, 3098],
+				"label": "Ressaina",
+				"modern": "Răs el Aïn",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [40.063274, 36.850094] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2624",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [99181, 3129],
+				"label": "Nisibi",
+				"modern": "Nusaybin",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [41.21452, 37.075687] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2627",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [100356, 3413],
+				"label": "Singara",
+				"modern": "Shingal",
+				"symbol": "Aa8"
+			},
+			"geometry": { "type": "Point", "coordinates": [41.869469, 36.314018] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2634",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [98047, 3576],
+				"label": "Edessa",
+				"modern": "Şanlıurfa",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [38.799999, 37.150002] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2642",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [97264, 4160],
+				"label": "Tharrana",
+				"modern": "Harran",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [39.024441, 36.864376] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2659",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [100482, 4227],
+				"label": "Hatris",
+				"modern": "Al Hadr",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [42.717499, 35.58556] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2682",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [100870, 4098],
+				"label": "Thelser",
+				"modern": "Kirkuk?",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [44.395206, 35.468079] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2687",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [102272, 3663],
+				"label": "Albania",
+				"modern": "Qasr e-Shirin",
+				"symbol": "Aa8"
+			},
+			"geometry": { "type": "Point", "coordinates": [45.583332, 34.516666] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2691",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [102020, 4072],
+				"label": "Peloriarca",
+				"modern": "Tekrït?",
+				"symbol": "Aa8"
+			},
+			"geometry": { "type": "Point", "coordinates": [43.77737, 34.606087] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2695",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [102694, 4147],
+				"label": "Cesiphvn",
+				"modern": "~ Bagdad",
+				"symbol": "Aa42"
+			},
+			"geometry": { "type": "Point", "coordinates": [44.580715, 33.093582] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2700",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [100191, 4911],
+				"label": "Selevcia",
+				"modern": "~ Bagdad",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [48.597813, 31.12941] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2702",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [99467, 5007],
+				"label": "Babylonia",
+				"symbol": "Aa2",
+				"classic": "Babylon"
+			},
+			"geometry": { "type": "Point", "coordinates": [48.250298, 29.772676] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2717",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [103820, 5191],
+				"label": "Spasinvcarax",
+				"modern": "~ Abadan",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [54.271999, 26.776573] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2736",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [111459, 1864],
+				"label": "Antiochia",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [62.19278, 37.669739] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2740",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [109370, 2908],
+				"label": "Aris",
+				"modern": "Zaranj",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [61.886539, 31.11241] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2742",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [110937, 3253],
+				"label": "Aspacora",
+				"modern": "~ Kabul?",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [69.168549, 34.530319] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2744",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [112080, 3164],
+				"label": "Magaris",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [85.99472, 20.37846] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2761",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [110547, 4554],
+				"label": "Elymaine",
+				"modern": "Ahmadabad",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [72.566002, 23.039568] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2763",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [107335, 3420],
+				"label": "Alexandria Bvcefalos",
+				"modern": "Jhelum",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [73.720718, 32.93354] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2772",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [108389, 4779],
+				"label": "Bestia Deselvtia",
+				"symbol": "Aa1",
+				"classic": "Bestia Desolata"
+			},
+			"geometry": { "type": "Point", "coordinates": [72.723091, 24.134071] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace2779",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [106120, 4975],
+				"label": "Persepoliscon Mercivm persarvm",
+				"modern": "Taht-i-Djamshid",
+				"symbol": "Aa2",
+				"classic": "Persepolis"
+			},
+			"geometry": { "type": "Point", "coordinates": [52.889999, 29.9368] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace280",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [50316, 4883],
+				"label": "Templvm veneris",
+				"modern": "Djorf",
+				"symbol": "B12"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.731524, 33.695953] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace289",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [54597, 4636],
+				"label": "Sabrata",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.484959, 32.805897] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace292",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [55751, 4606],
+				"label": "Osa col.",
+				"modern": "Tarabulus",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [13.187507, 32.876175] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace300",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [57340, 4647],
+				"label": "Leptimagna col.",
+				"modern": "Lebda ~ Al Khoms",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.289408, 32.636814] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace340",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [68725, 4626],
+				"label": "Bernicide",
+				"modern": "Banghazi",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [20.066668, 32.116669] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace341",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [68879, 4542],
+				"label": "Hadrianopolis",
+				"modern": "Daryanah",
+				"symbol": "Aa15"
+			},
+			"geometry": { "type": "Point", "coordinates": [20.308889, 32.347221] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace342",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [68852, 4326],
+				"label": "Tavchira col.",
+				"modern": "Toqra",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [20.568352, 32.540779] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace343",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [68988, 4266],
+				"label": "Ptolomaide",
+				"modern": "Tolmeitha",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [20.938681, 32.70359] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace346",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [70182, 4516],
+				"label": "Balacris",
+				"modern": "Al Baydā",
+				"symbol": "B23"
+			},
+			"geometry": { "type": "Point", "coordinates": [21.741667, 32.766388] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace347",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [70578, 4569],
+				"label": "Cyrenis col.",
+				"modern": "Qurena ~ Shahhat",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [21.856928, 32.81805] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace374",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [78911, 4197],
+				"label": "Pelvsio",
+				"modern": "Tell Al-Farama ~ El-Qantara",
+				"symbol": "Ab2"
+			},
+			"geometry": { "type": "Point", "coordinates": [32.539982, 31.042589] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace387",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [77212, 5009],
+				"label": "Memphis",
+				"modern": "Menf ~ El Gïzeh",
+				"symbol": "Ab2"
+			},
+			"geometry": { "type": "Point", "coordinates": [31.250917, 29.844667] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace388",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [72559, 5245],
+				"label": "Herasicamina",
+				"modern": "Muharraqah",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [32.7369, 23.049055] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace410",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [78990, 5342],
+				"label": "Pernicide portvm",
+				"modern": "Port Berenice",
+				"symbol": "Ab2"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.484169, 23.94556] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace412",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [76019, 4815],
+				"label": "Tyconpoli",
+				"modern": "Asyūt",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [31.185049, 27.183781] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace423",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [77431, 5039],
+				"label": "Babylonia",
+				"modern": "Qasr esh-Sham ~ Al Qāhirah",
+				"symbol": "Ab2"
+			},
+			"geometry": { "type": "Point", "coordinates": [31.230055, 30.006346] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace43",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [19557, 4576],
+				"label": "Cirta Colonia",
+				"modern": "Constantine",
+				"symbol": "Aa1",
+				"alt": "Qusantina"
+			},
+			"geometry": { "type": "Point", "coordinates": [6.6, 36.349998] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace438",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [81826, 4525],
+				"label": "Helyacapitolina",
+				"modern": "Jerusalem",
+				"symbol": "Ab1",
+				"alt": "ירושלים"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.200699, 31.7857] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace442",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [82639, 4294],
+				"label": "Cesaria",
+				"modern": "Caesarea Maritima",
+				"symbol": "Aa2",
+				"classic": "Caesarea Palaestinae"
+			},
+			"geometry": { "type": "Point", "coordinates": [34.899723, 32.5] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace445",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [82506, 4443],
+				"label": "Neapoli",
+				"modern": "Nablus",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.259575, 32.222336] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace452",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [79671, 4754],
+				"label": "Addianam",
+				"modern": "~ Hal Timna | ~ Yotvata",
+				"symbol": "B5",
+				"alt": "יטבתה"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.059345, 29.895498] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace458",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [82522, 4507],
+				"label": "Herichonte",
+				"modern": "Ariha",
+				"symbol": "Aa2",
+				"classic": "Jericho"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.460163, 31.856731] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace461",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [83367, 4568],
+				"label": "Scytopoli",
+				"modern": "Beit She'an",
+				"symbol": "Aa1",
+				"alt": "בית שאן"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.505901, 32.5042] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace462",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [83584, 4730],
+				"label": "Tyberias",
+				"modern": "Tverya",
+				"symbol": "Aa2",
+				"classic": "Tiberias",
+				"alt": "טבריה‎"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.540722, 32.786671] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace464",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [83101, 4413],
+				"label": "Caporcotani",
+				"modern": "~Meggido",
+				"symbol": "Aa2",
+				"classic": "Legio",
+				"alt": "Othnai"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.170277, 32.572224] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace468",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [80083, 5001],
+				"label": "Petris",
+				"modern": "Qasr Firaun",
+				"symbol": "Aa48",
+				"classic": "Petra"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.451229, 30.322599] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace473",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [81381, 5024],
+				"label": "Philadelfia",
+				"modern": "Amman",
+				"symbol": "Ab1",
+				"classic": "Philadelpheia"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.932911, 31.949381] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace477",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [82635, 4903],
+				"label": "Bostris",
+				"modern": "Bosra",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [36.483334, 32.516666] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace485",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [85546, 5006],
+				"label": "Damaspo",
+				"modern": "Dimashq",
+				"symbol": "Ab2",
+				"classic": "Damascus"
+			},
+			"geometry": { "type": "Point", "coordinates": [36.292, 33.513] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace486",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [83430, 4297],
+				"label": "Ptolomaide",
+				"modern": "‘Akkô",
+				"symbol": "Aa1",
+				"alt": "עכו"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.1003, 32.920601] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace487",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [83942, 4508],
+				"label": "Tyro",
+				"modern": "Sour",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.20945, 33.272514] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace488",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [84157, 4306],
+				"label": "Sydone",
+				"modern": "Saida",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.368729, 33.562611] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace489",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [84433, 4576],
+				"label": "Cesarea Paneas",
+				"modern": "Banyas",
+				"symbol": "Aa2",
+				"classic": "Caesarea Philippi"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.693844, 33.247158] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace492",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [84854, 4470],
+				"label": "Berizto",
+				"modern": "Beirut",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.49548, 33.88863] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace494",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [85397, 4577],
+				"label": "Eliopoli",
+				"modern": "Ba'labakk",
+				"symbol": "Ab2"
+			},
+			"geometry": { "type": "Point", "coordinates": [36.220463, 34.004822] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace497",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [85237, 4396],
+				"label": "Biblo",
+				"modern": "Jubayl",
+				"symbol": "Ab2"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.663712, 34.120392] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace505",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [88595, 4515],
+				"label": "Raphanis",
+				"symbol": "Aa2",
+				"classic": "Raphaneai"
+			},
+			"geometry": { "type": "Point", "coordinates": [36.392979, 34.966351] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace511",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [90070, 4494],
+				"label": "Apamia",
+				"modern": "Kafat el-Mudîk",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [36.397999, 35.417999] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace513",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [87952, 4742],
+				"label": "Nemesa",
+				"modern": "Homs",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [36.707394, 34.708412] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace52",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [32930, 4411],
+				"label": "Ipponte diarito",
+				"modern": "Bizerta",
+				"symbol": "Ac1"
+			},
+			"geometry": { "type": "Point", "coordinates": [9.873071, 37.27626] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace527",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [91151, 4943],
+				"label": "Palmyra",
+				"modern": "Tadmur",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [38.278671, 34.547951] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace530",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [88049, 4241],
+				"label": "Lavdiciae",
+				"modern": "Al Lathqiyah",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.7924, 35.52145] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace532",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [89076, 3846],
+				"label": "Selevcia",
+				"modern": "Samandağ",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [35.999321, 36.08239] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace536",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [925, 752],
+				"label": "Sinomagi",
+				"modern": "Saxmundham",
+				"symbol": "Aa52",
+				"classic": "Sitomagus"
+			},
+			"geometry": { "type": "Point", "coordinates": [1.488791, 52.21455] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace546",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [1048, 1605],
+				"label": "Dvroavervs",
+				"modern": "Canterbury",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [1.078348, 51.278027] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace547",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [1213, 1549],
+				"label": "Dvbris",
+				"modern": "Dover",
+				"symbol": "Ab1",
+				"classic": "Dubra"
+			},
+			"geometry": { "type": "Point", "coordinates": [1.314039, 51.127121] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace548",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [1282, 1390],
+				"label": "Ratvpis",
+				"modern": "Richborough",
+				"symbol": "Aa44"
+			},
+			"geometry": { "type": "Point", "coordinates": [1.33672, 51.291981] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace549",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [1231, 1704],
+				"label": "Lemavio",
+				"modern": "Lympne",
+				"symbol": "Aa1",
+				"classic": "Lemanio"
+			},
+			"geometry": { "type": "Point", "coordinates": [1.033559, 51.075329] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace55",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [36938, 4457],
+				"label": "Vtica Colonia",
+				"modern": "Bou Shater ~ Tunis",
+				"symbol": "Ab6"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.062168, 37.056519] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace551",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [848, 2011],
+				"label": "Iscadvmnoniorv̄",
+				"modern": "Exeter",
+				"symbol": "Ac1"
+			},
+			"geometry": { "type": "Point", "coordinates": [-3.534172, 50.721245] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace552",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [2771, 1011],
+				"label": "Lvgdvno",
+				"modern": "Katwijk aan Zee",
+				"symbol": "Aa1",
+				"classic": "Lugdunum Batavorum"
+			},
+			"geometry": { "type": "Point", "coordinates": [4.389181, 52.21048] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace553",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [2895, 950],
+				"label": "Pretoriv̄ Agrippine",
+				"modern": "Valkenburg",
+				"symbol": "C2",
+				"classic": "Praetorium Agrippinae"
+			},
+			"geometry": { "type": "Point", "coordinates": [4.433091, 52.180328] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace562",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [7151, 917],
+				"label": "Noviomagi",
+				"modern": "Nijmegen",
+				"symbol": "Ac1",
+				"classic": "Ulpia Noviomagus Batavorum"
+			},
+			"geometry": { "type": "Point", "coordinates": [5.846593, 51.847496] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace571",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [8566, 902],
+				"label": "Colo Traiana",
+				"modern": "Xanten",
+				"symbol": "Aa1",
+				"classic": "Colonia Ulpia Traiana"
+			},
+			"geometry": { "type": "Point", "coordinates": [6.449822, 51.661106] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace572",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [9055, 921],
+				"label": "Veteribvs",
+				"modern": "Birten (Fürstenberg) ~ Xanten",
+				"symbol": "Aa1",
+				"classic": "Castra Vetera"
+			},
+			"geometry": { "type": "Point", "coordinates": [6.468616, 51.652054] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace575",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [10175, 940],
+				"label": "Agripina",
+				"modern": "Köln",
+				"symbol": "Aa1",
+				"classic": "Colonia Claudia Ara Agrippinensium"
+			},
+			"geometry": { "type": "Point", "coordinates": [6.959911, 50.940662] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace580",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [8800, 1178],
+				"label": "Atvaca",
+				"modern": "Tongeren",
+				"symbol": "Aa1",
+				"classic": "Atuatuca Tungrorum"
+			},
+			"geometry": { "type": "Point", "coordinates": [5.459418, 50.780499] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace583",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [3313, 1227],
+				"label": "Castello Menapiorv̄",
+				"modern": "Cassel",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [2.487366, 50.799377] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace588",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [6561, 1248],
+				"label": "Baca Conervio",
+				"modern": "Bavay",
+				"symbol": "Aa4"
+			},
+			"geometry": { "type": "Point", "coordinates": [3.791744, 50.297153] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace594",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [3788, 1286],
+				"label": "Tervanna",
+				"modern": "Thérouanne",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [2.257654, 50.637379] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace599",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [6293, 1288],
+				"label": "Avḡ Svessorvm",
+				"modern": "Soissons",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [3.327716, 49.38232] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace60",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [39530, 4500],
+				"label": "Chartagine Colon̄",
+				"modern": "Tunis",
+				"symbol": "Ab1",
+				"classic": "Carthago"
+			},
+			"geometry": { "type": "Point", "coordinates": [10.332785, 36.862358] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace601",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [5286, 1342],
+				"label": "Sammarobriva",
+				"modern": "Amiens",
+				"symbol": "Aa17"
+			},
+			"geometry": { "type": "Point", "coordinates": [2.294244, 49.893917] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace609",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [7884, 1484],
+				"label": "Dvrocortoro",
+				"modern": "Reims",
+				"symbol": "B4"
+			},
+			"geometry": { "type": "Point", "coordinates": [4.033091, 49.256603] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace621",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [4284, 1491],
+				"label": "Ratvmagvs",
+				"modern": "Rouen",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [1.098492, 49.442368] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace624",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [5782, 1469],
+				"label": "Casaromago",
+				"modern": "Beauvais",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [2.081069, 49.429291] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace625",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [4413, 1676],
+				"label": "Mediolano avtercorvm",
+				"modern": "Evreux",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [1.151109, 49.024529] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace628",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [5495, 1798],
+				"label": "Avtricvm",
+				"modern": "Chartres",
+				"symbol": "Aa5"
+			},
+			"geometry": { "type": "Point", "coordinates": [1.483543, 48.44408] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace635",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [7860, 1796],
+				"label": "Avḡ Bona",
+				"modern": "Troyes",
+				"symbol": "Aa4"
+			},
+			"geometry": { "type": "Point", "coordinates": [4.074801, 48.29747] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace636",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [7983, 1875],
+				"label": "Ebvrobriga",
+				"modern": "~ Avrolles",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [3.682888, 48.003548] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace64",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [28875, 4465],
+				"label": "Ad Aqvas",
+				"symbol": "C28",
+				"classic": "Cataquas"
+			},
+			"geometry": { "type": "Point", "coordinates": [8.336988, 36.525791] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace644",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [3457, 1745],
+				"label": "Araegenve",
+				"modern": "Vieux",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [-0.435628, 49.105671] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace646",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [4583, 1865],
+				"label": "NV DIONNVM",
+				"modern": "Sées",
+				"symbol": "Aa2"
+			},
+			"geometry": { "type": "Point", "coordinates": [0.172762, 48.606869] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace647",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [4991, 1824],
+				"label": "Svb dinnvm",
+				"modern": "Le Mans",
+				"symbol": "Ab9"
+			},
+			"geometry": { "type": "Point", "coordinates": [0.198579, 48.007717] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace65",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [30006, 4467],
+				"label": "Simitv Colonia",
+				"modern": "Chemtou",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [8.58333, 36.48333] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace650",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [5935, 1968],
+				"label": "Cenabo",
+				"modern": "Orléans",
+				"symbol": "Ab1"
+			},
+			"geometry": { "type": "Point", "coordinates": [1.903976, 47.901386] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace652",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [6793, 2035],
+				"label": "Aqvis Segeste",
+				"modern": "Sceaux-du-Gâtinais",
+				"symbol": "C3"
+			},
+			"geometry": { "type": "Point", "coordinates": [2.6227, 48.115448] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace658",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [8567, 2334],
+				"label": "Avḡ Dunum",
+				"modern": "Autun",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [4.299421, 46.949783] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace664",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [7352, 2731],
+				"label": "AQVIS BORMONIS",
+				"modern": "Bourbon-Lancy",
+				"symbol": "C2",
+				"classic": "Aquae Bormonis"
+			},
+			"geometry": { "type": "Point", "coordinates": [3.767922, 46.622417] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace666",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [2640, 1853],
+				"label": "Cosedia",
+				"modern": "Coutances",
+				"symbol": "Aa20",
+				"classic": "Constantia civitas"
+			},
+			"geometry": { "type": "Point", "coordinates": [-1.444356, 49.049168] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace668",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [3214, 1989],
+				"label": "Condate",
+				"modern": "Rennes",
+				"symbol": "Ac1",
+				"classic": "Condate Redonum"
+			},
+			"geometry": { "type": "Point", "coordinates": [-1.680265, 48.111759] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace673",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [4698, 2154],
+				"label": "Ivliomago",
+				"modern": "Angers",
+				"symbol": "Ab8"
+			},
+			"geometry": { "type": "Point", "coordinates": [-0.549073, 47.469471] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace677",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [6200, 2410],
+				"label": "Avaricvm",
+				"modern": "Bourges",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [2.396579, 47.082893] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace679",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [7961, 2430],
+				"label": "Aqvis Nisincii",
+				"modern": "Saint-Honoré-les-Bains",
+				"symbol": "C1"
+			},
+			"geometry": { "type": "Point", "coordinates": [3.839562, 46.904617] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace681",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [9281, 2281],
+				"label": "Cabillione",
+				"modern": "Chalons-sur-Saóne",
+				"symbol": "B28"
+			},
+			"geometry": { "type": "Point", "coordinates": [4.843838, 46.781937] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace689",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [3509, 2284],
+				"label": "Dartoritvm",
+				"modern": "Vannes",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [-2.759521, 47.654903] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace693",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [4707, 2304],
+				"label": "Lemvno",
+				"modern": "Poitiers",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [0.342648, 46.586987] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace697",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [910, 2597],
+				"label": "Burdegalo",
+				"modern": "Bordeaux",
+				"symbol": "Aa1",
+				"classic": "Burdigala"
+			},
+			"geometry": { "type": "Point", "coordinates": [-0.576797, 44.836597] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace7",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [3189, 4199],
+				"label": "Rvsvccvrv colon̄",
+				"modern": "Dellys | Tigzirt",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [3.891396, 36.919552] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace700",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [2023, 2388],
+				"label": "Mediolano Sancorvm",
+				"modern": "Saintes",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [-0.637109, 45.747437] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace704",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [2570, 2655],
+				"label": "Vesonna",
+				"modern": "Périgueux",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [0.721835, 45.186798] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace708",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [3906, 2795],
+				"label": "Avsrito",
+				"modern": "Limoges",
+				"symbol": "Aa1",
+				"classic": "Augustoritum Limovicum"
+			},
+			"geometry": { "type": "Point", "coordinates": [1.262119, 45.828163] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace720",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [6232, 2996],
+				"label": "Avḡ Nemeto",
+				"modern": "Clermont-Ferrand",
+				"symbol": "Aa4"
+			},
+			"geometry": { "type": "Point", "coordinates": [3.082418, 45.777168] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace724",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [6554, 2987],
+				"label": "Aqvis Calidis",
+				"modern": "Vichy",
+				"symbol": "C3"
+			},
+			"geometry": { "type": "Point", "coordinates": [3.422397, 46.123066] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace729",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [9010, 2978],
+				"label": "Foro Segvstavarv̄",
+				"modern": "Feurs",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [4.222161, 45.744335] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace730",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [9637, 2825],
+				"label": "Lvgdvno capvt Galliarvm",
+				"modern": "Lyon",
+				"symbol": "Aa1",
+				"classic": "Lvgdvno capvt Galliarvm vsqve hic legas"
+			},
+			"geometry": { "type": "Point", "coordinates": [4.834329, 45.7673] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace735",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [2976, 3004],
+				"label": "Aginnvm",
+				"modern": "Agen",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [0.612095, 44.201492] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace738",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [3831, 3032],
+				"label": "Bibona",
+				"modern": "Cahors",
+				"symbol": "Ab1",
+				"classic": "Divona Cadureorum"
+			},
+			"geometry": { "type": "Point", "coordinates": [1.441466, 44.445629] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace741",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [5356, 3301],
+				"label": "Segodvni",
+				"modern": "Rodez",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [2.573599, 44.351093] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace747",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [8514, 3129],
+				"label": "Aqvis Segete",
+				"modern": "Moingt",
+				"symbol": "C2"
+			},
+			"geometry": { "type": "Point", "coordinates": [4.064747, 45.608841] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace755",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [2122, 3050],
+				"label": "Tolosa",
+				"modern": "Toulouse",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [1.442951, 43.604362] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace766",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [5688, 3597],
+				"label": "Narbone",
+				"modern": "Narbonne",
+				"symbol": "Ab4"
+			},
+			"geometry": { "type": "Point", "coordinates": [3.004192, 43.183567] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace767",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [1034, 3189],
+				"label": "Aqvis Convenarvm",
+				"modern": "Bagnères-de-Bigorre",
+				"symbol": "C33",
+				"classic": "Aquae Convenarum"
+			},
+			"geometry": { "type": "Point", "coordinates": [0.150121, 43.065136] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace782",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [8014, 3520],
+				"label": "Nemvso",
+				"modern": "Nîmes",
+				"symbol": "Ab4"
+			},
+			"geometry": { "type": "Point", "coordinates": [4.360864, 43.834591] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace784",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [8918, 3464],
+				"label": "Arelato",
+				"modern": "Arles",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [4.627804, 43.676651] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace807",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [10087, 2715],
+				"label": "Vigenna",
+				"modern": "Vienne",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [4.878902, 45.528549] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace830",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [18671, 2298],
+				"label": "Avgvsta Tavrinorvm",
+				"modern": "Torino",
+				"symbol": "Ad2",
+				"classic": "Julia Augusta Taurinorum"
+			},
+			"geometry": { "type": "Point", "coordinates": [7.686619, 45.07056] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace833",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [10781, 3599],
+				"label": "Aquis Sestis",
+				"modern": "Aix-en Provence",
+				"symbol": "C2",
+				"classic": "Aquae Sextiae"
+			},
+			"geometry": { "type": "Point", "coordinates": [5.453911, 43.536255] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace834",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [11369, 3602],
+				"label": "Reis Apollinaris",
+				"modern": "Riez",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [6.092427, 43.817806] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace837",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [12920, 3733],
+				"label": "Foro ivlii",
+				"modern": "Fréjus",
+				"symbol": "Ad1"
+			},
+			"geometry": { "type": "Point", "coordinates": [6.73518, 43.432468] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace838",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [9428, 3522],
+				"label": "Fossis Marianis",
+				"modern": "Fos-sur-Mer",
+				"symbol": "G6"
+			},
+			"geometry": { "type": "Point", "coordinates": [4.943921, 43.437595] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace840",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [10318, 3592],
+				"label": "Masilia Grecorvm",
+				"modern": "Marseille",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [5.381042, 43.297611] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace853",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [16761, 3459],
+				"label": "Vadis Sabates",
+				"modern": "Vado Ligure",
+				"symbol": "Ad7"
+			},
+			"geometry": { "type": "Point", "coordinates": [8.435763, 44.269348] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace856",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [18054, 3185],
+				"label": "Aqvis Tatelis",
+				"modern": "Acqui Terme",
+				"symbol": "C4"
+			},
+			"geometry": { "type": "Point", "coordinates": [8.470669, 44.675526] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace866",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [18898, 3480],
+				"label": "Genva",
+				"modern": "Genova",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [8.933989, 44.407063] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace871",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [10670, 845],
+				"label": "Bonnae",
+				"modern": "Bonn",
+				"symbol": "Ac1"
+			},
+			"geometry": { "type": "Point", "coordinates": [7.096311, 50.732704] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace878",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [13821, 840],
+				"label": "Mogontiaco",
+				"modern": "Mainz",
+				"symbol": "Aa45"
+			},
+			"geometry": { "type": "Point", "coordinates": [8.267426, 49.995125] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace885",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [16203, 1079],
+				"label": "Argentorate",
+				"modern": "Strasbourg",
+				"symbol": "Aa21"
+			},
+			"geometry": { "type": "Point", "coordinates": [7.743749, 48.582932] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace890",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [17268, 1386],
+				"label": "Avgvsta Rvracvm",
+				"modern": "Augst",
+				"symbol": "B25"
+			},
+			"geometry": { "type": "Point", "coordinates": [7.716667, 47.533333] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace897",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [11853, 1337],
+				"label": "Avḡ Tresvirorvm",
+				"modern": "Trier",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [6.646251, 49.753742] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace90",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [7488, 4503],
+				"label": "Cvlchvl Colonia",
+				"modern": "Djémila",
+				"symbol": "Ac1"
+			},
+			"geometry": { "type": "Point", "coordinates": [5.733333, 36.299999] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace903",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [9204, 1554],
+				"label": "Nasic",
+				"modern": "Naix-aux-Forges",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [5.376395, 48.637032] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace905",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [9834, 1456],
+				"label": "Andesina",
+				"modern": "Grand",
+				"symbol": "C1"
+			},
+			"geometry": { "type": "Point", "coordinates": [5.488701, 48.389774] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace912",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [11729, 1644],
+				"label": "Divo Dvrimedio Matricorvm",
+				"modern": "Metz",
+				"symbol": "Ac1"
+			},
+			"geometry": { "type": "Point", "coordinates": [6.172695, 49.116127] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace921",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [9004, 1852],
+				"label": "Andemantvnno",
+				"modern": "Langres",
+				"symbol": "Ab20"
+			},
+			"geometry": { "type": "Point", "coordinates": [5.33411, 47.862972] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace924",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [10847, 1952],
+				"label": "Vesontine",
+				"modern": "Besançon",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [6.025566, 47.241226] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace93",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [4690, 4690],
+				"label": "Sitifi col.",
+				"modern": "Sétif",
+				"symbol": "Aa43"
+			},
+			"geometry": { "type": "Point", "coordinates": [5.414416, 36.18898] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace941",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [13388, 1857],
+				"label": "Aventicvm Heletiorvm",
+				"modern": "Avenches",
+				"symbol": "B15"
+			},
+			"geometry": { "type": "Point", "coordinates": [7.041111, 46.880833] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace957",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [17856, 2153],
+				"label": "Avgvsta Pretoria",
+				"modern": "Aosta",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [7.313234, 45.735001] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace974",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [20844, 952],
+				"label": "Samvlocenis",
+				"modern": "Rottenburg am Neckar",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [8.93775, 48.476887] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace989",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [27025, 873],
+				"label": "Regino",
+				"modern": "Regensburg",
+				"symbol": "Aa16"
+			},
+			"geometry": { "type": "Point", "coordinates": [12.100904, 49.016491] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace993",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [28466, 936],
+				"label": "Ovilia",
+				"modern": "Wels",
+				"symbol": "Ac1"
+			},
+			"geometry": { "type": "Point", "coordinates": [14.03664, 48.165421] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace995",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [19585, 1565],
+				"label": "Arbor Felix",
+				"modern": "Arbon",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [9.421089, 47.510925] }
+		},
+		{
+			"type": "Feature",
+			"id": "https://omnesviae.org/#TPPlace996",
+			"properties": {
+				"type": "Place",
+				"resourceCoords": [19748, 1416],
+				"label": "BRIGANTIO",
+				"modern": "Bregenz",
+				"symbol": "Aa1"
+			},
+			"geometry": { "type": "Point", "coordinates": [9.74231, 47.500751] }
+		}
+	]
+}

@@ -1,3 +1,6 @@
 onlyBuiltDependencies:
   - '@tailwindcss/oxide'
   - esbuild
+
+overrides:
+  '@allmaps/maplibre': link:../allmaps/packages/maplibre

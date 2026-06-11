@@ -1,1 +1,33 @@
 @import 'tailwindcss';
+
+@layer base {
+	:root {
+		background: #fff;
+		color-scheme: light dark;
+	}
+
+	html,
+	body {
+		min-height: 100%;
+		background: #fff;
+	}
+
+	body {
+		min-height: 100dvh;
+	}
+
+	@media (prefers-color-scheme: dark) {
+		:root,
+		html,
+		body {
+			background: #fff;
+		}
+	}
+}
+
+@layer utilities {
+	.h-app-screen {
+		height: 100vh;
+		height: 100dvh;
+	}
+}
