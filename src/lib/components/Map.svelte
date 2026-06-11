@@ -65,7 +65,7 @@
 		if (center) {
 			map = new maplibregl.Map({
 				container,
-				style: 'https://api.protomaps.com/styles/v5/light/en.json?key=250da80caa9975d2',
+				style: 'https://api.protomaps.com/styles/v5/light/en.json?key=ca7652ec836f269a',
 				maxPitch: 0,
 				center,
 				zoom: maxZoom,
