@@ -126,6 +126,8 @@
 				}
 			});
 
+			map.addControl(new maplibregl.NavigationControl());
+
 			map.on('load', async () => {
 				map.addLayer(warpedMapLayer);
 

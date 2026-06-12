@@ -79,6 +79,8 @@
 				}
 			});
 
+			map.addControl(new maplibregl.NavigationControl());
+
 			map.on('load', () => {
 				map.setGlyphs(settings.glyphsUrl);
 
