@@ -11,7 +11,6 @@
 	import appState from '$lib/shared/state.svelte';
 	import settings from '$lib/shared/settings';
 
-	import type { Point } from 'geojson';
 	import type { FeatureWithId } from '$lib/shared/types';
 	import type {
 		GeoJSONFeatureDiff,
@@ -25,7 +24,8 @@
 
 	import 'maplibre-gl/dist/maplibre-gl.css';
 
-	let currentComponent = 'tabula';
+	const currentComponent = 'tabula';
+
 	let container: HTMLDivElement;
 	let warpedMapList = new WarpedMapList();
 	let warpedMapLayer = new WarpedMapLayer({ warpedMapList });
@@ -34,9 +34,9 @@
 	let index: KDBush;
 	let map: Map;
 	let selectedPoints = $derived(appState.selectedPoints);
-	let mapLoaded = $state(false);
+	let bothMapsLoaded = $derived(appState.loaded === 2);
 	let previousSelectedPoints: string[] = [];
-	let animating = false;
+	let animating = true;
 	let maxZoom = 10;
 
 	const style = {
@@ -47,7 +47,7 @@
 	} satisfies StyleSpecification;
 
 	$effect(() => {
-		if (mapLoaded) {
+		if (bothMapsLoaded) {
 			// Prepare features to update
 			const featuresToSelect = features.filter(({ id }) => selectedPoints.includes(id));
 			const selectDiff: GeoJSONFeatureDiff[] = featuresToSelect.map((feature) =>
@@ -116,7 +116,7 @@
 				style,
 				maxPitch: 0,
 				center,
-				zoom: maxZoom,
+				zoom: maxZoom - 5,
 				bearingSnap: 0,
 				keyboard: false,
 				attributionControl: {
@@ -163,7 +163,7 @@
 					}
 				});
 
-				mapLoaded = true;
+				appState.loaded++;
 			});
 
 			map.on('moveend', () => {
@@ -174,7 +174,7 @@
 					const bounds = map.getBounds();
 					const nearestPoints = getNearestPoints(index, features, center, bounds);
 					appState.selectedPoints = nearestPoints;
-					appState.lastMoved = 'tabula';
+					appState.lastMoved = currentComponent;
 				}
 			});
 		}

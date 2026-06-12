@@ -1,5 +1,5 @@
 <script lang="ts">
-	import points from '$lib/assets/places.json';
+	import places from '$lib/assets/places.json';
 
 	import maplibregl from 'maplibre-gl';
 	import 'maplibre-gl/dist/maplibre-gl.css';
@@ -13,15 +13,16 @@
 	import type { FeatureWithId } from '$lib/shared/types';
 	import type { GeoJSONFeatureDiff, LngLatBoundsLike, Map, GeoJSONSource } from 'maplibre-gl';
 
-	let currentComponent = 'map';
+	const currentComponent = 'map';
+
 	let container: HTMLDivElement;
-	let features = points.features as FeatureWithId[];
+	let features = places.features as FeatureWithId[];
 	let index = getIndex(features);
 	let map: Map;
-	let mapLoaded = $state(false);
+	let bothMapsLoaded = $derived(appState.loaded === 2);
 	let selectedPoints = $derived(appState.selectedPoints);
 	let previousSelectedPoints: string[] = [];
-	let animating = false;
+	let animating = true;
 	let center: LngLatLike | undefined = $state(undefined);
 	let maxZoom = 14;
 
@@ -31,7 +32,7 @@
 	}
 
 	$effect(() => {
-		if (mapLoaded) {
+		if (bothMapsLoaded) {
 			// Prepare features to update
 			const featuresToSelect = features.filter(({ id }) => selectedPoints.includes(id));
 			const selectDiff: GeoJSONFeatureDiff[] = featuresToSelect.map((feature) =>
@@ -68,7 +69,7 @@
 				style: 'https://api.protomaps.com/styles/v5/light/en.json?key=ca7652ec836f269a',
 				maxPitch: 0,
 				center,
-				zoom: maxZoom,
+				zoom: maxZoom - 5,
 				bearingSnap: 0,
 				keyboard: false,
 				attributionControl: {
@@ -83,7 +84,7 @@
 
 				map.addSource('places', {
 					type: 'geojson',
-					data: points
+					data: places
 				});
 
 				map.addLayer({
@@ -115,7 +116,7 @@
 					}
 				});
 
-				mapLoaded = true;
+				appState.loaded++;
 			});
 
 			map.on('moveend', () => {
@@ -126,7 +127,7 @@
 					const bounds = map.getBounds();
 					const nearestPoints = getNearestPoints(index, features, center, bounds);
 					appState.selectedPoints = nearestPoints;
-					appState.lastMoved = 'map';
+					appState.lastMoved = currentComponent;
 				}
 			});
 		}
