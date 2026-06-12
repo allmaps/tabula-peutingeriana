@@ -41,6 +41,7 @@
 
 	const style = {
 		version: 8,
+		glyphs: settings.glyphsUrl,
 		sources: {},
 		layers: []
 	} satisfies StyleSpecification;
@@ -150,8 +151,8 @@
 					source: 'places',
 					layout: {
 						'text-field': ['get', 'label'],
-						'text-font': ['Open Sans Semibold', 'Arial Unicode MS Bold'],
-						'text-size': 12,
+						'text-font': ['Noto Sans SemiBold'],
+						'text-size': settings.labelSize,
 						'text-offset': [0, 1.2],
 						'text-anchor': 'top'
 					},

@@ -79,6 +79,8 @@
 			});
 
 			map.on('load', () => {
+				map.setGlyphs(settings.glyphsUrl);
+
 				map.addSource('places', {
 					type: 'geojson',
 					data: points
@@ -101,8 +103,8 @@
 					source: 'places',
 					layout: {
 						'text-field': ['get', 'label'],
-						'text-font': ['Open Sans Semibold', 'Arial Unicode MS Bold'],
-						'text-size': 12,
+						'text-font': ['Noto Sans SemiBold'],
+						'text-size': settings.labelSize,
 						'text-offset': [0, 1.2],
 						'text-anchor': 'top'
 					},
