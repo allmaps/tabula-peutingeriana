@@ -79,7 +79,7 @@
 				}
 			});
 
-			map.addControl(new maplibregl.NavigationControl());
+			map.addControl(new maplibregl.NavigationControl({ showCompass: false }));
 
 			map.on('load', () => {
 				map.setGlyphs(settings.glyphsUrl);
