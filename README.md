@@ -7,7 +7,7 @@ Source data and IIIF Image taken from the [Omnes Viae](https://omnesviae.org/) p
 Inspired by:
 
 - [Rijksdriehoeksmeting](https://tu-delft-heritage.github.io/rijksdriehoeksmeting/)
-- [IIIF Georeference Viewer](ttps://github.com/nakamura196/iiif_geo)
+- [IIIF Georeference Viewer](https://nakamura196.github.io/iiif_geo/)
 - [Allmaps Cursors](https://cursors.allmaps.org/)
 
 ## Developing
